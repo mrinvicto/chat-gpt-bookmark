@@ -30,7 +30,7 @@ This extension helps you **save** and **organize** those chats effortlessly.
 
 ---
 
-## 🧠 Coming soon
+## 🧠 Coming soon (If we get 1K installs)
 - Organize bookmarks into folders
 - Add notes to your bookmarks
 - Search through bookmarks
