@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mrinvicto/chat-gpt-bookmark/compare/v1.0.0...v1.1.0) (2025-04-29)
+
+
+### Features
+
+* **semantic_release:** Added semantic release ([0814df6](https://github.com/mrinvicto/chat-gpt-bookmark/commit/0814df672c411cccc1a0250ca358d6554b6078dc))
+
 # 1.0.0 (2025-04-29)
 
 
