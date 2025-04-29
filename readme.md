@@ -23,7 +23,7 @@ This extension helps you **save** and **organize** those chats effortlessly.
 ---
 
 ## 🛠️ How to use
-1. Install the extension from the Chrome Web Store (coming soon!).
+1. Install the extension by downloading it from [here](https://mrinvicto.github.io/chat-gpt-bookmark/chatgptbookmark.zip).
 2. Open any chat in ChatGPT.
 3. Click the **Bookmark** option.
 4. Access your saved chats anytime from the extension popup!

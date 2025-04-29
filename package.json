@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "dev": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "node scripts/sync-version.js && git add public/manifest.json"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,11 @@
   },
   "homepage": "https://github.com/mrinvicto/chat-gpt-bookmark#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^11.0.3",
     "@types/chrome": "^0.0.317",
+    "semantic-release": "^23.0.6",
     "ts-loader": "^9.5.2",
     "typescript": "^5.8.3",
     "webpack": "^5.99.7",
