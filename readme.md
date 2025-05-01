@@ -9,7 +9,7 @@ Super simple, super fast.
 
 ---
 
-## ✨ What it does
+## ✨ What it does?
 - Adds a **"Bookmark this chat"** option inside ChatGPT.
 - Keeps a neat list of your saved chats.
 - Makes it way easier to revisit important conversations without all the scrolling.
