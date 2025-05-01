@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",            // Use modern JavaScript
+      "module": "ESNext",            // Use the ESNext module system (will be handled by Webpack)
+      "outDir": "dist",              // The output directory for compiled JS files
+      "esModuleInterop": true,       // Allows importing non-ESModule packages (e.g., CommonJS)
+      "strict": true,                // Enforces strict type checking
+      "skipLibCheck": true,          // Skip type-checking of declaration files (improves speed)
+      "moduleResolution": "node",    // Resolves modules like Node.js
+      "allowJs": true,                // Allow JavaScript files in your TypeScript project
+      "noImplicitAny": false
+    },
+    "include": ["src/**/*.ts"],       // Include all TypeScript files in the src directory
+    "exclude": ["node_modules"]       // Exclude the node_modules directory
+  }
+  
