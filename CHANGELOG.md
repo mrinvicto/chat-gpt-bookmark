@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/mrinvicto/chat-gpt-bookmark/compare/v1.3.0...v1.4.0) (2025-05-01)
+
+
+### Features
+
+* **semantic_release:** Delete button added ([05f31b9](https://github.com/mrinvicto/chat-gpt-bookmark/commit/05f31b9edc7d3fca2ae8613a84b9682ee6948f27))
+
 # [1.3.0](https://github.com/mrinvicto/chat-gpt-bookmark/compare/v1.2.0...v1.3.0) (2025-05-01)
 
 
