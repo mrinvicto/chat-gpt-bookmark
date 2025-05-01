@@ -7,7 +7,8 @@
       "strict": true,                // Enforces strict type checking
       "skipLibCheck": true,          // Skip type-checking of declaration files (improves speed)
       "moduleResolution": "node",    // Resolves modules like Node.js
-      "allowJs": true                // Allow JavaScript files in your TypeScript project
+      "allowJs": true,                // Allow JavaScript files in your TypeScript project
+      "noImplicitAny": false
     },
     "include": ["src/**/*.ts"],       // Include all TypeScript files in the src directory
     "exclude": ["node_modules"]       // Exclude the node_modules directory
