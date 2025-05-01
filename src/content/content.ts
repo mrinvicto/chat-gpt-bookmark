@@ -45,6 +45,12 @@ function initializeBookmarkFeature() {
     const observer = new MutationObserver(() => {
         injectBookmarkOption();
         
+        // Set up bookmark deletion handler
+        document.querySelectorAll('.delete-bookmark').forEach(button => {
+            button.removeEventListener('click', BookmarkManager.handleDeleteBookmark);
+            button.addEventListener('click', BookmarkManager.handleDeleteBookmark);
+        });
+        
         DOMUtils.findGroupsInSidebar().forEach(group => {
             const target = DOMUtils.findBookmarkContainer(group);
             if (!target) {
