@@ -3,11 +3,7 @@
   "name": "ChatGPT Bookmark Extension",
   "version": "1.0.1",
   "description": "Easily bookmark and access your favorite ChatGPT conversations.",
-  "permissions": [
-    "storage",
-    "activeTab",
-    "scripting"
-  ],
+  "permissions": [],
   "background": {
     "service_worker": "background.bundle.js"
   },
