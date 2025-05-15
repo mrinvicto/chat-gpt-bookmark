@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ChatGPT Bookmark Extension",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily bookmark and access your favorite ChatGPT conversations.",
   "permissions": [],
   "background": {
