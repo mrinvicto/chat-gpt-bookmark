@@ -1,6 +1,6 @@
 # ChatGPT Bookmark Extension
 
-Welcome! 👋
+Welcome!! 👋
 
 This Chrome extension lets you **easily bookmark your favorite chats** in ChatGPT.
 
